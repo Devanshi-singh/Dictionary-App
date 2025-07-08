@@ -8,7 +8,7 @@ A sleek and easy-to-use **Dictionary Web Application** built using **HTML, CSS, 
 
 - ✅ Search for any English word
 - ✅ Fetch and display: 
-  - Word
+  - Word 
   - Phonetic transcription 
   - Pronunciation audio
   - Definition
