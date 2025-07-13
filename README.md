@@ -5,7 +5,7 @@ A sleek and easy-to-use **Dictionary Web Application** built using **HTML, CSS, 
 ---
 
 ## ✨ Features
-
+ 
 - ✅ Search for any English word
 - ✅ Fetch and display:
   - Word 
