@@ -10,7 +10,7 @@ A sleek and easy-to-use **Dictionary Web Application** built using **HTML, CSS, 
 - ✅ Fetch and display:
   - Word 
   - Phonetic transcription
-  - Pronunciation audio 
+  - Pronunciation audio
   - Definition
   - Example usage 
   - Part(s) of speech
