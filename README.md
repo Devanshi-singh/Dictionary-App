@@ -12,7 +12,7 @@ A sleek and easy-to-use **Dictionary Web Application** built using **HTML, CSS, 
   - Phonetic transcription
   - Pronunciation audio 
   - Definition
-  - Example usage
+  - Example usage 
   - Part(s) of speech
 - ✅ Responsive and user-friendly design
 - ✅ Error handling for misspelled or unknown words
